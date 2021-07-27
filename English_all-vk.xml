@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<properties>
+<entry key="eventID">1835970</entry>
+<entry key="eventType">1</entry>
+<entry key="nodeID">PRDSET_633800</entry>
+<entry key="nodeType">classification</entry>
+<entry key="eventCreationTime">2020-02-10 02:16:22.0</entry>
+<entry key="eventRevision">0.32</entry>
+<entry key="messageCreationTime">2020-02-10 02:17:00.584</entry>
+</properties>
+-->
+<!-- Configuration:
+<?xml version="1.0" encoding="UTF-8"?>
+<STEP-ProductInformation ResolveInlineRefs="true" ExportDeletedData="true">
+   <UnitList ExportSize="Minimum" />
+   <DeleteClassifications />
+   <DeleteAssets />
+   <Classifications ExportSize="Referenced">
+      <Classification IncludeParent="true">
+         <Name />
+         <MetaData>
+            <Value AttributeID="WCSAttributeGroup"  />
+         </MetaData>
+         <ClassificationReference />
+         <AssetCrossReference />
+        <ProductCrossReference />
+        <ClassificationCrossReference />
+      </Classification>
+   </Classifications>
+   <Assets ExportSize="Referenced">
+      <Asset />
+   </Assets>
+   <Products ExportSize="Referenced">
+      <FilterUserType ID="Product" />
+      <FilterUserType ID="Address" />
+   <FilterUserType ID="Publications" />
+      <Product>
+         <Name />
+         <Values IncludeInherited="true">
+            <Value AttributeID="WCSAttributeGroup">
+               <UnitID />
+               <UnitName />
+            </Value>
+         </Values>
+         <AttributeLink />
+         <ClassificationReference />
+         <AssetCrossReference />
+         <ProductCrossReference />
+      </Product>
+   </Products>
+</STEP-ProductInformation>
+Export from AssayMap mAb Purification Kits
+Effective date: 2020-02-10 02:17:00
+Classifications "PRDSET_633800"
+Products All
+Assets All
+Tag conversion enabled: HTML3
+
+Exported by database exporter.
+-->
+<STEP-ProductInformation ExportTime="2020-02-10 02:17:00" ExportContext="ChinaSimplifiedChinese" ContextID="GlobalEnglish" WorkspaceID="Approved" UseContextLocale="false">
+  <Classifications>
+    <Classification ID="Classification 1 root" UserTypeID="Classification 1 user-type root" Selected="false">
+      <Name>Classification 1 root</Name>
+      <Classification ID="Classification hierarchy root" UserTypeID="Classification 1 user-type root" Selected="false">
+        <Name>Alternate Classification Hierarchy</Name>
+        <Classification ID="AgilentWebRoot" UserTypeID="Classification 1 user-type root" Selected="false">
+          <Name>Agilent Web Root</Name>
+          <Classification ID="WEBHIER_600138" UserTypeID="WebHierarchyPage" Selected="false">
+            <Name>Biopharma HPLC Analysis</Name>
+            <AssetCrossReference AssetID="WFIG_667195" Type="WebFigureReference"/>
+            <MetaData>
+              <Value AttributeID="WebPageBrowserTitle">Biopharma HPLC Analysis</Value>
+              <Value AttributeID="WebHeadline">Be Agilent Sure of your biologic's critical quality attributes.</Value>
+              <MultiValue AttributeID="WebDescriptionLong">
+                <Value>The importance of understanding the attributes of a biologic drug, and the processes used to create it, cannot be underestimated. &amp;nbsp;Agilent AdvanceBio LC columns are designed and produced to provide results you can be sure of when analyzing highly complex biotherapeutic molecules and monitoring their purity, potency, and other critical quality attributes.</Value>
+              </MultiValue>
+              <MultiValue AttributeID="MetaKeywords">
+                <Value>biomolecule LC separations</Value>
+                <Value>protein LC separations</Value>
+                <Value>glycan separations</Value>
+                <Value>biomolecule LC analysis</Value>
+                <Value>protein LC analysis</Value>
+                <Value>glycan LC analysis</Value>
+                <Value>biomolecule sample preparation</Value>
+                <Value>glycan sample preparation</Value>
+                <Value>biopharma consumables</Value>
+                <Value>biopharma sample prep</Value>
+                <Value>biopharma sample preparation</Value>
+                <Value>critical quality attribute analysis</Value>
+                <Value>CQA analysis</Value>
+                <Value>biotherapeutic characterization</Value>
+              </MultiValue>
+              <Value AttributeID="OnlineDate">2019-08-02</Value>
+              <Value AttributeID="MetaDescription">Agilent AdvanceBio LC columns are designed and produced to provide results you can be sure of when analyzing highly complex biotherapeutic molecules and monitoring their purity, potency, and other critical quality attributes.</Value>
+              <Value AttributeID="RegulatedClassification" ID="No" LOVQualifierID="en-US">No</Value>
+              <Value AttributeID="URLName">biopharma-hplc-analysis</Value>
+              <Value AttributeID="WebPageTitle">Biopharma HPLC Analysis</Value>
+            </MetaData>
+            <Classification ID="PRLISPG_633797" UserTypeID="ProductListPage" Selected="false">
+              <Name>Protein Depletion &amp; Sample Cleanup</Name>
+              <MetaData>
+                <Value AttributeID="WebHierarchyMapping" ID="ProductGroup">Product Group</Value>
+                <Value AttributeID="WebPageBrowserTitle">Protein Depletion and Purification</Value>
+                <Value AttributeID="WebHeadline">Protein Depletion and Purification</Value>
+                <MultiValue AttributeID="WebDescriptionLong">
+                  <Value>Agilent affinity-based depletion and purification tools offer effective clean up of complicated biological matrices.</Value>
+                </MultiValue>
+                <Value AttributeID="WebDescriptionShort">Agilent affinity-based depletion and purification tools offer effective clean up of complicated biological matrices.</Value>
+                <MultiValue AttributeID="MetaKeywords">
+                  <Value>protein depletion, biologic matrix clean up, biologic matrix depletion, plasma protein depletion, serum protein depletion, mAb purification, protein A purification</Value>
+                </MultiValue>
+                <Value AttributeID="OnlineDate">2019-09-15</Value>
+                <Value AttributeID="MetaDescription">Affinity-based depletion and purification tools for clean up of complicated biological matrices.</Value>
+                <Value AttributeID="RegulatedClassification" ID="No" LOVQualifierID="en-US">No</Value>
+                <Value AttributeID="URLName">protein-depletion-sample-cleanup</Value>
+                <Value AttributeID="ContactEmail">don_grothen@agilent.com</Value>
+                <Value AttributeID="WebPageTitle">Protein Depletion &amp; Sample Cleanup</Value>
+              </MetaData>
+              <Classification ID="PRLISPG_633798" UserTypeID="ProductListPage" Selected="false">
+                <Name>Antibody Preparation</Name>
+                <MetaData>
+                  <Value AttributeID="WebHierarchyMapping" ID="ProductSubGroup">Product Sub Group</Value>
+                  <Value AttributeID="WebPageBrowserTitle">AssayMAP PA50 Protein A cartridges for sample purification</Value>
+                  <Value AttributeID="WebHeadline">Protein A cartridges for antibody puirfication</Value>
+                  <MultiValue AttributeID="WebDescriptionLong">
+                    <Value>Use PA50 Protein A kits to purify monoclonal and polyclonal IgGs and other Fc domain-containing molecules such as Fc fusion proteins, prior to glycan analysis or other assays. PA50 kits can be used to obtain monoclonal antibody (mAb) titers. Purification can be done directly from cell culture without intermediate purification. Flexible Protein A cartridges are useful in manual and automated formats, and in high-throughput sample quantitation using AssayMAP technology and microchromatography.</Value>
+                  </MultiValue>
+                  <Value AttributeID="WebDescriptionShort">Antibody purification with Protein A</Value>
+                  <MultiValue AttributeID="MetaKeywords">
+                    <Value>AssayMAP PA50</Value>
+                    <Value>Protein A</Value>
+                    <Value>Protein A cartridges</Value>
+                    <Value>GlykoPrep</Value>
+                    <Value>mAb purification</Value>
+                  </MultiValue>
+                  <Value AttributeID="OnlineDate">2019-09-15</Value>
+                  <Value AttributeID="MetaDescription">AssayMAP Test PA50 Protein A cartridges simplify purification of monoclonal and polyclonal antibodies, and other Fc fusion proteins. Spin and automation formats available</Value>
+                  <Value AttributeID="RegulatedClassification" ID="No" LOVQualifierID="en-US">No</Value>
+                  <Value AttributeID="URLName">antibody-preparation</Value>
+                  <Value AttributeID="ContactEmail">don_grothen@agilent.com</Value>
+                  <Value AttributeID="WebPageTitle">Antibody Preparation</Value>
+                </MetaData>
+                <Classification ID="PRDSET_633800" UserTypeID="ProductSetPage">
+                  <Name>AssayMap mAb Purification Kits</Name>
+                  <AssetCrossReference AssetID="SUPTAST_730957" Type="SupportAssetReference"/>
+                  <AssetCrossReference AssetID="SUPTAST_730958" Type="SupportAssetReference"/>
+                  <MetaData>
+                    <Value AttributeID="WebPageBrowserTitle">AssayMAP PA50 Protein A kits purify mAbs and Fc fusion proteins</Value>
+                    <Value AttributeID="WebDescriptionShort">High throughput antibody purification and sample quantitation with  automated workflow option</Value>
+                    <MultiValue AttributeID="MetaKeywords">
+                      <Value>AssayMAP</Value>
+                      <Value>titer</Value>
+                      <Value>purification</Value>
+                      <Value>Protein A</Value>
+                      <Value>mAb</Value>
+                      <Value>mAbs</Value>
+                      <Value>mAb purification</Value>
+                      <Value>Fc fusion purification</Value>
+                      <Value>human IgG purification</Value>
+                    </MultiValue>
+                    <Value AttributeID="OnlineDate">2019-09-15</Value>
+                    <Value AttributeID="OfflineDate" Changed="true"/>
+                    <Value AttributeID="MetaDescription">Use AssayMAP PA50 Protein A cartridges to purify monoclonal and polyclonal antibodies and other Fc-domain contain molecules including Fc fusion proteins.</Value>
+                    <Value AttributeID="RegulatedClassification" ID="No" LOVQualifierID="en-US">No</Value>
+                    <Value AttributeID="WebPageTitle">AssayMap mAb Purification Kits</Value>
+                    <MultiValue AttributeID="WebDescriptionLong">
+                      <Value>Use Agilent AssayMAP Protein A PA50 Test kits to obtain monoclonal antibody (mAb) titers. Use PA50 Protein A kits to purify monoclonal and polyclonal IgGs and other Fc domain-containing molecules such as Fc fusion proteins prior to glycoanalysis. Purification can be done directly from cell culture without intermediate purification. Protein A cartridges may be used in spin or automation formats and offer robust, high-throughput sample quantitation using AssayMAP technology and microchromatography in a 96-well format.</Value>
+                    </MultiValue>
+                    <MultiValue AttributeID="WebHighlights">
+                      <Value>Use PA50 Protein A kits in spin  Test or automation format to purify monoclonal and polyclonal IgGs and other Fc domain-containing molecules such as Fc fusion proteins, prior to glycan analysis or other assays.</Value>
+                    </MultiValue>
+                    <Value AttributeID="URLName">assaymap-mab-purification-kits</Value>
+                    <Value AttributeID="WebOrderingDetails">SubCat2ECS_654409</Value>
+                    <Value AttributeID="WebeSaleable" ID="Yes">Yes</Value>
+                  </MetaData>
+                </Classification>
+              </Classification>
+            </Classification>
+          </Classification>
+        </Classification>
+      </Classification>
+    </Classification>
+  </Classifications>
+  <Assets>
+    <Asset ID="WFIG_667195" UserTypeID="WebFigure" Selected="false" Referenced="true">
+      <Name>ELIBRARY_152821</Name>
+      <ClassificationReference ClassificationID="ExternalWebFigureRoot"/>
+      <Values>
+        <Value AttributeID="AssetTitle">Liquid-Chromatography-banner.jpg </Value>
+        <Value AttributeID="ExternalAssetURL">/cs/publishingimages/Liquid-Chromatography-banner.jpg</Value>
+        <Value AttributeID="AssetIdentification">getImage/ELIBRARY_152821/jpg/v1</Value>
+      </Values>
+    </Asset>
+    <Asset ID="SUPTAST_730957" UserTypeID="SupportAsset" Selected="false" Referenced="true">
+      <Name>ELIBRARY_824059</Name>
+      <ClassificationReference ClassificationID="ExternalSupportAssetsRoot"/>
+      <Values>
+        <Value AttributeID="AssetTitle">G5524-60001 KIT PA Purification Module Booklet 24 Ct</Value>
+        <Value AttributeID="ExternalAssetURL">/cs/library/usermanuals/public/TDW-G5524-60001 KIT AssayMAP PA50 24 Ct 120214AC.pdf</Value>
+        <Value AttributeID="AssetIdentification">getDocument/ELIBRARY_824059/pdf/v1</Value>
+      </Values>
+    </Asset>
+    <Asset ID="SUPTAST_730958" UserTypeID="SupportAsset" Selected="false" Referenced="true">
+      <Name>ELIBRARY_824060</Name>
+      <ClassificationReference ClassificationID="ExternalSupportAssetsRoot"/>
+      <Values>
+        <Value AttributeID="AssetTitle">G5524-60010 KIT PA Purification Module Booklet 96 Ct Agilent Part Numbers</Value>
+        <Value AttributeID="ExternalAssetURL">/cs/library/usermanuals/public/TDW-G5524-60010 KIT AssayMAP PA50 96 Ct 120214AC .pdf</Value>
+        <Value AttributeID="AssetIdentification">getDocument/ELIBRARY_824060/pdf/v1</Value>
+      </Values>
+    </Asset>
+  </Assets>
+</STEP-ProductInformation>
